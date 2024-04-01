@@ -1,0 +1,34 @@
+{
+  "Search": [
+    {
+      "Title": "The Making of 'Jaws 2'",
+      "Year": "2001",
+      "imdbID": "tt0290241",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Croc That Ate Jaws",
+      "Year": "2021–",
+      "imdbID": "tt14811602",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjVmODU1ODktZjU1OC00Y2I5LTgxNmUtYTM2NGE3OTdhYjljXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Jaws in 30 Seconds",
+      "Year": "2004",
+      "imdbID": "tt0829476",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Jaws: Deleted Scenes",
+      "Year": "2000",
+      "imdbID": "tt8886044",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjFhN2FmZDItOTFiYS00MGIxLTlkZTktY2Y5ZjIxYzVhYTYzXkEyXkFqcGdeQXVyNjY5Mzc0MTU@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "145",
+  "Response": "True"
+}

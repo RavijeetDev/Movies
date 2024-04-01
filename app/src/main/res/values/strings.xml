@@ -1,0 +1,24 @@
+<resources>
+
+    <!--
+        String values for { Home Screen }
+    -->
+    <string name="app_name">Movies</string>
+    <string name="search_button_text">Search Movies</string>
+
+
+    <!--
+        String values for { Search Bar } module
+    -->
+    <string name="search_bar_placeholder_text">Search</string>
+
+
+    <!--
+        String values for { Remote Result }
+    -->
+    <string name="no_internet">Internet connection is not available. Please try again</string>
+    <string name="timed_out">Sorry! Your request timed out. Please try again later.</string>
+    <string name="io_error">Unable to process your request, please try again later!</string>
+    <string name="http_error">Something went wrong. Please try again later!</string>
+    <string name="unknown_error">Something went wrong. Please try again later!</string>
+</resources>
